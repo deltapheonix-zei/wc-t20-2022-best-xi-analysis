@@ -69,7 +69,7 @@ To analyze full tournament data from the **ICC Men's T20 World Cup 2022** ( incl
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 📧 jkmevada.2003@gmail.com  
 🔗 [LinkedIn – jkmevada](https://linkedin.com/in/jkmevada)
