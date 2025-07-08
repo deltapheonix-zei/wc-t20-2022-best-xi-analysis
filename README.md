@@ -16,7 +16,7 @@ The focus was on key metrics like **strike rate**, **batting average**, **bounda
 
 ## 📌 Project Objective
 
-To analyze full tournament data from the **ICC Men's T20 World Cup 2022** — including **Qualifier** and **Super 12** stages — and select a performance-based **Best XI** using meaningful KPIs.
+To analyze full tournament data from the **ICC Men's T20 World Cup 2022** ( including **Qualifier** and **Super 12** stages ) and select a performance-based **Best XI** using meaningful KPIs.
 
 ---
 
