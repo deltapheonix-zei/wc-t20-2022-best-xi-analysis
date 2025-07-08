@@ -24,8 +24,6 @@ To analyze full tournament data from the **ICC Men's T20 World Cup 2022** — in
 
 - **Power BI** – For data transformation, modeling, and dashboard design  
 - **Jupyter Notebook (Python)** – For initial JSON processing and cleanup  
-- **Excel** – Used for quick calculations and logic testing during metric design
-
 ---
 
 ## 🧠 Methodology
@@ -34,7 +32,7 @@ To analyze full tournament data from the **ICC Men's T20 World Cup 2022** — in
 - **Cleaning & Transformation**: Handled in Jupyter (Python) and Power BI (Power Query)
 - **Filtering**: Players with very low match participation were excluded to ensure meaningful comparisons
 - **Role Classification**: Based on strike rate, boundary %, average, and bowling economy
-- **Final XI Selection**: Players were picked within their role groups — openers, anchors, finishers, all-rounders, and specialist bowlers — based on overall contribution and consistency
+- **Final XI Selection**: Players were picked within their role groups ( openers, anchors, finishers, all-rounders, and specialist bowlers ) based on overall contribution and consistency
 
 ---
 
